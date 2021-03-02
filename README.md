@@ -31,3 +31,15 @@ estas são as minhas configurações
  ## Exemplo
 
  para utilizar o git status agora, basta utilizar git s , e o git commit git c " sua branch"
+
+ ## Padronizando commits 
+
+ E importante dentro da linha do tempo ter commits padronizados , para isto pode ser utilizar a convençao [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/) , existe uma lib git-commit-msg-linter para que você consiga forçar a todos a manter esta
+ convenção.
+
+ ```
+npm install git-commit-msg-linter --save-dev
+ ```
+
+Veja Também
+[padrões de prettier](PROJECTEMPLATES.md)
