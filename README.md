@@ -42,4 +42,5 @@ npm install git-commit-msg-linter --save-dev
  ```
 
 Veja Também
-[padrões de prettier](PROJECTEMPLATES.md)
+[padrões de prettier](Eslint.md)
+[Husky e Lint-Staged](Husky-lint-staged.md)
